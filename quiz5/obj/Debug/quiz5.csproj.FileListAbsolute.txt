@@ -1,0 +1,8 @@
+C:\Users\USER\Desktop\quiz5\quiz5\bin\Debug\quiz5.exe.config
+C:\Users\USER\Desktop\quiz5\quiz5\obj\Debug\_2015OOP_Quiz5_win.Form1.resources
+C:\Users\USER\Desktop\quiz5\quiz5\obj\Debug\quiz5.Properties.Resources.resources
+C:\Users\USER\Desktop\quiz5\quiz5\obj\Debug\quiz5.csproj.GenerateResource.Cache
+C:\Users\USER\Desktop\quiz5\quiz5\bin\Debug\quiz5.exe
+C:\Users\USER\Desktop\quiz5\quiz5\bin\Debug\quiz5.pdb
+C:\Users\USER\Desktop\quiz5\quiz5\obj\Debug\quiz5.exe
+C:\Users\USER\Desktop\quiz5\quiz5\obj\Debug\quiz5.pdb
